@@ -4,7 +4,7 @@
 **TomNgo03/TomNgo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 👨🏻‍💻  About Me
 
 - 🤔   Exploring new technologies and developing software solutions and quick hacks.
@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
