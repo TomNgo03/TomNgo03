@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi there I'm Tom Ngo👋
 
 <!--
 **TomNgo03/TomNgo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+👨🏻‍💻  About Me
+
+- 🤔   Exploring new technologies and developing software solutions and quick hacks.
+- 🎓   Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼   Working as a Front End Developer Intern at CoderPush.
+- 🌱   Learning more about TypeScript, Machine Learning, and Artificial Intelligence.
+- ✍️   Pursuing Artificial Intelligence and Fashion and Lifestyles as side hustles.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
