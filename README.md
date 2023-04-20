@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 
 🛠  Tech Stack
-💻   Python Java C
-🌐   HTML5 CSS JavaScript Bootstrap Node.js React
-🛢   MySQL
-⚙️   Git GitHub
-🔧   Visual Studio Code
+
+- 💻   Python Java C
+- 🌐   HTML5 CSS JavaScript Bootstrap Node.js React
+- 🛢   MySQL
+- ⚙️   Git GitHub
+- 🔧   Visual Studio Code
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
