@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🤔   Exploring new technologies and developing software solutions and quick hacks.
 - 🎓   Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼   Working as a Front End Developer Intern at CoderPush.
+- 💼   Working as a Full-Stack Developer Intern at NashTech.
 - 🌱   Learning more about TypeScript, Machine Learning, and Artificial Intelligence.
 - ✍️   Pursuing Artificial Intelligence and Fashion and Lifestyles as side hustles.
 
