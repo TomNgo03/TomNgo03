@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=TomNgo03&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 [![TomNgo03's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TomNgo03&hide=html,javascript,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/TomNgo03) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomNgo03)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomNgo03)](https://github.com/anuraghazra/github-readme-stats) -->
