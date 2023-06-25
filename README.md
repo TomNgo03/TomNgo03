@@ -1,4 +1,4 @@
-### Hi there I'm Tom Ngo👋
+### Hi there I'm Tung Ngo👋
 
 
 👨🏻‍💻  About Me
