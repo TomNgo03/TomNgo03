@@ -1,7 +1,7 @@
 ### Hi there I'm Tung Ngo👋
 
 
-👨🏻‍💻  About Me
+👨🏻‍💻  About Me:
 
 - 🤔   I’m currently looking for internships Summer 2024
 - 🎓   Studying Computer Science and Mathematics at University of Massachusetts Amherst.
